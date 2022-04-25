@@ -1,5 +1,9 @@
-# raulbroncano-cdi
-alumno: Victor Broncano
-curso: 4° 1° avionica comision A
-materia: control de interfases
-colaboradores: Broncano Victor, Blasco Mauricio
+# Hello
+
+Alumno: Victor Broncano
+
+Curso: 4° 1° Avionica Comision A
+
+Materia: Control de Interfases
+
+Colaboradores: Broncano Victor, Blasco Mauricio
